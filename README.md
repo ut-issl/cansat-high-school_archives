@@ -5,3 +5,5 @@ CanSat High School での過去の成果物
 - [2021年06月19~20日 缶サットHigh School「缶サット構造系講座」](./2021-06-19_fukui)
 - [2022年02月19~20日 缶サットHigh School「缶サット電子系講座」](./2022-02-19_fukui)
 - [2023年02月18~19日 缶サットHigh School「缶サット電子系講座」](./2023-02-18_fukui)
+
+開発キットやドキュメントは [CanSatForHighSchoolStudents](https://github.com/ut-issl/CanSatForHighSchoolStudents/) を参照
