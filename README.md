@@ -1,4 +1,4 @@
-# cansat-high-school_archives
+# cansat-school-archives
 CanSat High School での過去の成果物
 
 - [2020年02月22~23日 缶サットHigh School「缶サット電子系講座」](./2020-02-22_fukui)
